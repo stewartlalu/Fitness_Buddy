@@ -7,7 +7,7 @@ An AI-powered fitness assistant built using IBM watsonx.ai and Retrieval-Augment
 
 
 
-## 🧩Prblem Statement
+## 🧩Problem Statement
 
 
 Health-conscious individuals often struggle to:
